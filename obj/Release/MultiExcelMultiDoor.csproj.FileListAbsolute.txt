@@ -1,0 +1,53 @@
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\MultiExcelMultiDoor.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\MultiExcelMultiDoor.pdb
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\accoremgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcDbMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\acdbmgdbrep.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\NPOI.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\NPOI.OOXML.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AdUIMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AdWindows.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcTcMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AdUiPalettes.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcCui.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\accoremgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcDbMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\acdbmgdbrep.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AdUIMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AdWindows.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcTcMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AdUiPalettes.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Release\AcCui.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\obj\Release\MultiExcelMultiDoor.csproj.CopyComplete
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\obj\Release\MultiExcelMultiDoor.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\obj\Release\MultiExcelMultiDoor.pdb
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\obj\Release\MultiExcelMultiDoor.csprojAssemblyReference.cache
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\NPOI.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\NPOI.OOXML.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\NPOI.OpenXml4Net.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\NPOI.OpenXmlFormats.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\我开发的项目\MultiExcelMultiDoor\obj\Release\MultiExcelMultiDoor.csproj.CopyComplete
+E:\我开发的项目\MultiExcelMultiDoor\obj\Release\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor\obj\Release\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\NPOI.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\NPOI.OOXML.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\NPOI.OpenXml4Net.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\NPOI.OpenXmlFormats.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Release\MultiExcelMultiDoor.csproj.CopyComplete
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Release\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Release\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Release\MultiExcelMultiDoor.csprojAssemblyReference.cache

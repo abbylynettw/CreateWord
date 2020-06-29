@@ -1,0 +1,49 @@
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\MultiExcelMultiDoor.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\MultiExcelMultiDoor.pdb
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcCoreMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcDbMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OOXML.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OpenXml4Net.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AdWindows.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcTcMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcCui.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\井瑞\MultiExcelMultiDoor - 副本\obj\Debug\CreateWord.csprojResolveAssemblyReference.cache
+E:\井瑞\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.pdb
+E:\MyOwnProject\CreateWord\bin\Debug\MultiExcelMultiDoor.dll
+E:\MyOwnProject\CreateWord\bin\Debug\MultiExcelMultiDoor.pdb
+E:\MyOwnProject\CreateWord\bin\Debug\AcCoreMgd.dll
+E:\MyOwnProject\CreateWord\bin\Debug\AcDbMgd.dll
+E:\MyOwnProject\CreateWord\bin\Debug\AcMgd.dll
+E:\MyOwnProject\CreateWord\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyOwnProject\CreateWord\bin\Debug\NPOI.dll
+E:\MyOwnProject\CreateWord\bin\Debug\NPOI.OOXML.dll
+E:\MyOwnProject\CreateWord\bin\Debug\NPOI.OpenXml4Net.dll
+E:\MyOwnProject\CreateWord\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\MyOwnProject\CreateWord\bin\Debug\AdWindows.dll
+E:\MyOwnProject\CreateWord\bin\Debug\AcTcMgd.dll
+E:\MyOwnProject\CreateWord\bin\Debug\AcCui.dll
+E:\MyOwnProject\CreateWord\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\MyOwnProject\CreateWord\obj\Debug\MultiExcelMultiDoor.dll
+E:\MyOwnProject\CreateWord\obj\Debug\MultiExcelMultiDoor.pdb
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\MultiExcelMultiDoor.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\MultiExcelMultiDoor.pdb
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\AcCoreMgd.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\AcDbMgd.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\AcMgd.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\NPOI.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\NPOI.OOXML.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\NPOI.OpenXml4Net.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\AdWindows.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\AcTcMgd.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\AcCui.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\MyOwnProject\CreateWord（循环排序方式）\obj\Debug\MultiExcelMultiDoor.dll
+E:\MyOwnProject\CreateWord（循环排序方式）\obj\Debug\MultiExcelMultiDoor.pdb

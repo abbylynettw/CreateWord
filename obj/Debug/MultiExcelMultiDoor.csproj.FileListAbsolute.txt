@@ -1,0 +1,67 @@
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\MultiExcelMultiDoor.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\MultiExcelMultiDoor.pdb
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcDbMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\acdbmgdbrep.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\NPOI.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\NPOI.OOXML.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AdUIMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AdWindows.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcTcMgd.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AdUiPalettes.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcCui.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcDbMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\acdbmgdbrep.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AdUIMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AdWindows.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcTcMgd.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AdUiPalettes.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\bin\Debug\AcCui.xml
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\obj\Debug\MultiExcelMultiDoor.csproj.CopyComplete
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\obj\Debug\MultiExcelMultiDoor.dll
+C:\Users\admin\Desktop\jingrui\MultiExcelMultiDoor\obj\Debug\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\NPOI.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\NPOI.OOXML.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\NPOI.OpenXml4Net.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\我开发的项目\MultiExcelMultiDoor\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\我开发的项目\MultiExcelMultiDoor\obj\Debug\MultiExcelMultiDoor.csproj.CopyComplete
+E:\我开发的项目\MultiExcelMultiDoor\obj\Debug\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor\obj\Debug\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OOXML.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OpenXml4Net.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.csproj.CopyComplete
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.dll
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.pdb
+E:\我开发的项目\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.csprojAssemblyReference.cache
+E:\井瑞\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.csprojResolveAssemblyReference.cache
+E:\井瑞\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\obj\Debug\MultiExcelMultiDoor.pdb
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\MultiExcelMultiDoor.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\MultiExcelMultiDoor.pdb
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcCoreMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcDbMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OOXML.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OpenXml4Net.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AdWindows.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcTcMgd.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\AcCui.dll
+E:\井瑞\MultiExcelMultiDoor - 副本\bin\Debug\ICSharpCode.SharpZipLib.xml

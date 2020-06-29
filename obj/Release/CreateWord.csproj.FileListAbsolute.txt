@@ -1,0 +1,17 @@
+E:\MyOwnProject\CreateWord\bin\Release\MultiExcelMultiDoor.dll
+E:\MyOwnProject\CreateWord\bin\Release\MultiExcelMultiDoor.pdb
+E:\MyOwnProject\CreateWord\bin\Release\AcCoreMgd.dll
+E:\MyOwnProject\CreateWord\bin\Release\AcDbMgd.dll
+E:\MyOwnProject\CreateWord\bin\Release\AcMgd.dll
+E:\MyOwnProject\CreateWord\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\MyOwnProject\CreateWord\bin\Release\NPOI.dll
+E:\MyOwnProject\CreateWord\bin\Release\NPOI.OOXML.dll
+E:\MyOwnProject\CreateWord\bin\Release\NPOI.OpenXml4Net.dll
+E:\MyOwnProject\CreateWord\bin\Release\NPOI.OpenXmlFormats.dll
+E:\MyOwnProject\CreateWord\bin\Release\AdWindows.dll
+E:\MyOwnProject\CreateWord\bin\Release\AcTcMgd.dll
+E:\MyOwnProject\CreateWord\bin\Release\AcCui.dll
+E:\MyOwnProject\CreateWord\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\MyOwnProject\CreateWord\obj\Release\MultiExcelMultiDoor.dll
+E:\MyOwnProject\CreateWord\obj\Release\MultiExcelMultiDoor.pdb
+E:\MyOwnProject\CreateWord\obj\Release\CreateWord.csprojResolveAssemblyReference.cache
